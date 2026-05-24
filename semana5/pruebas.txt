@@ -1,0 +1,8 @@
+Ruta / :
+Es la ruta principal del servidor. Cuando el usuario entra a http://localhost:3000, el servidor responde mostrando el mensaje "Servidor activo", indicando que la aplicación está funcionando correctamente.
+
+Ruta /saludo :
+Esta ruta responde mostrando el mensaje "Hola comunidad". Su función es enviar un saludo sencillo desde el servidor al usuario que accede a la dirección /saludo.
+
+Ruta /mensaje/juan :
+Esta ruta utiliza un parámetro dinámico en la URL para generar un saludo personalizado. En este caso, al escribir "juan" en la dirección, el servidor responde con el mensaje "Hola juan".
