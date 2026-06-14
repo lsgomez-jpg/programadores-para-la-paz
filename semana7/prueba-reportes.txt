@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor muestra la lista de reportes registrados. Cada reporte contiene un id, un tipo y una descripción. Si se agregan nuevos reportes mediante POST, estos aparecen en la lista al consultar nuevamente la ruta.
