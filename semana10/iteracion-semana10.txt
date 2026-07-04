@@ -1,0 +1,7 @@
+Las dos tareas que realizaría primero son registrar una incidencia y consultar los reportes, porque son las funciones principales de la plataforma y permiten que los usuarios comiencen a utilizar el sistema.
+
+Una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada en Git con su respectivo commit.
