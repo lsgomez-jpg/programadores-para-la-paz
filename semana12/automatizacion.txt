@@ -1,0 +1,7 @@
+La automatización se activa cuando un ciudadano registra una nueva causa en la plataforma.
+
+Al activarse, n8n o Telegram envía un mensaje indicando que se creó una nueva causa y que está disponible para recibir apoyos.
+
+El mensaje puede incluir el título de la causa y la fecha de creación.
+
+Por seguridad, no deben enviarse datos personales como cédulas, direcciones, teléfonos, contraseñas, comentarios privados ni otra información sensible de los usuarios.
